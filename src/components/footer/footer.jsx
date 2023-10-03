@@ -1,4 +1,4 @@
-import React from "react";
+ContentWrapperimport React from "react";
 import {
     FaFacebookF,
     FaInstagram,
@@ -6,7 +6,7 @@ import {
     FaLinkedin,
 } from "react-icons/fa";
 
-import ContentWrapper from "../contectWrapper/ContentWrapper";
+import  from "../contectWrapper/ContentWrapper";
 
 import "./style.scss";
 
